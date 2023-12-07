@@ -1,0 +1,12 @@
+{
+    "editor.fontFamily": "Menlo, 'DejaVu Sans Mono', Consolas, 'Lucida Console', monospace",
+    "workbench.colorTheme": "Hyper Term Black",
+    "editor.cursorStyle": "block",
+    "editor.minimap.enabled": false,
+    "editor.renderLineHighlight": "line",
+    "editor.accessibilityPageSize": 10,
+    "editor.autoIndent": "full",
+    "markdown-preview-github-styles.colorTheme": "auto",
+    "gitlens.currentLine.uncommittedChangesFormat": "✏️ ${ago}${author}${email}",
+    "markdown.preview.breaks": true
+}
